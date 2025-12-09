@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+seaborn
+matplotlib
+haversine
+scipy
